@@ -1,3 +1,5 @@
+package collectionAPI;
+
 import java.util.*;
 
 public class TestingCollection {
